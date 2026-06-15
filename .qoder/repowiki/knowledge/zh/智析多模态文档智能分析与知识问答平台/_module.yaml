@@ -1,0 +1,21 @@
+schema_version: 1
+module_path: ""
+title: 智析多模态文档智能分析与知识问答平台
+scope:
+    - zhixi\.env.example
+    - zhixi\.gitignore
+    - zhixi\notebooks\01_numpy_pandas_basics.ipynb
+    - zhixi\notebooks\02_ocr_experiment.ipynb
+    - zhixi\notebooks\03_rag_experiment.ipynb
+    - zhixi\requirements.txt
+    - zhixi\src\__init__.py
+    - zhixi\src\app.py
+    - zhixi\src\doc_parser.py
+    - zhixi\src\knowledge_graph.py
+    - zhixi\src\nlp_pipeline.py
+    - zhixi\src\rag_engine.py
+    - zhixi\tests\__init__.py
+    - zhixi\tests\test_core.py
+source_files: []
+depends_on: []
+related_to: []
